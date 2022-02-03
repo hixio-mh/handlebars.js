@@ -14,7 +14,7 @@
     "babel-plugin-istanbul": "^5.2.0",
     "handlebars": "file:../..",
     "handlebars-loader": "^1.7.1",
-    "nyc": "^14.1.1",
+    "nyc": "^15.0.0",
     "webpack": "^4.39.3",
     "webpack-cli": "^3.3.7"
   },
